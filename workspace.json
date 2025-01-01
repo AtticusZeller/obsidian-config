@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73d5e45475fb5dcf",
+        "id": "4aaaa08be38da5a2",
         "type": "tabs",
         "children": [
           {
-            "id": "d6ec06568b6ce63e",
+            "id": "d18b20f82a07d37b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/OS/Ubuntu/Terminal.md",
+                "file": "CS/OS/Ubuntu/Gnome.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal"
+              "title": "Gnome"
             }
           }
         ]
@@ -210,12 +210,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d6ec06568b6ce63e",
+  "active": "d18b20f82a07d37b",
   "lastOpenFiles": [
+    "CS/OS/Ubuntu/bugs.md",
+    "CS/OS/Ubuntu/Terminal.md",
     "CS/OS/Docker.md",
     "CS/VCS/git.md",
     "CS/OS/Proxy/sing-box-moble.json",
-    "CS/OS/Ubuntu/Terminal.md",
     "CS/OS/Ubuntu/System.md",
     "CS/OS/Ubuntu/Gnome.md",
     "CS/OS/Ubuntu/Package.md",
@@ -233,7 +234,6 @@
     "CS/OS/Proxy/clash-meta.yml",
     "CS/OS/Proxy/apps-cn.yml",
     "CS/OS/Proxy/apps.yml",
-    "CS/OS/Ubuntu/bugs.md",
     "CS/OS/Ubuntu/Appearance.md",
     "CS/OS/Proxy/clash-template.yml",
     "CS/tools/IDE/JetBrains.md",
