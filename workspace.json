@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/OS/Ubuntu/Gnome.md",
+                "file": "CS/OS/Ubuntu/Appearance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gnome"
+              "title": "Appearance"
             }
           }
         ]
@@ -212,13 +212,13 @@
   },
   "active": "d18b20f82a07d37b",
   "lastOpenFiles": [
+    "CS/OS/Ubuntu/Gnome.md",
     "CS/OS/Ubuntu/bugs.md",
     "CS/OS/Ubuntu/Terminal.md",
     "CS/OS/Docker.md",
     "CS/VCS/git.md",
     "CS/OS/Proxy/sing-box-moble.json",
     "CS/OS/Ubuntu/System.md",
-    "CS/OS/Ubuntu/Gnome.md",
     "CS/OS/Ubuntu/Package.md",
     "CS/OS/Proxy/sing-box.json",
     "CS/VCS/github/SSH_keypair_setup_for_GitHub.md",
